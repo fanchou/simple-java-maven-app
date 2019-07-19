@@ -18,4 +18,8 @@ public class App
         return message;
     }
 
+    private final String setMessage(String str){
+        return message+str;
+    }
+
 }
